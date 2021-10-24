@@ -4,7 +4,7 @@
 This repository contains the datasets that we curated as a benchmark for Continual Few-Shot Learning (CFL) task. In CFL task, a system is challenged with a difficult phenomenon and asked to learn to correct mistakes with only a few (10 to 15) training examples.
 
 ## Datasets Format
-You can download the datasets from [here]().
+You can download the datasets from [here](https://drive.google.com/drive/folders/1wDs6K8MVADQcx5ZReomRT2CX2rHGws2D?usp=sharing).
 
 In our CFL framework we consider two scenarios: (1) few-shot learning setup; (2) continual few-shot learning setup. In each setup, we have 5 and 2 categories for SNLI and IMDB datasets, respectively. For few-shot learning setup, each category has 3 train sets. Below is an overview of the directory structure.
 
